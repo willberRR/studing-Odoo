@@ -3,7 +3,7 @@
 {
     'name': 'Odoo Academy',
     
-    'sumary': """ Academy app to manage Training""",
+    'summary': """ Academy app to manage Training""",
     
     ' descripton':"""
         Academy Module to manage Training:
@@ -15,7 +15,7 @@
     'autor': 'WillberRR',
     
     'category': 'Training',
-    'version':'0.1'
+    'version':'0.1',
     
     'depends': ['base'],
     
